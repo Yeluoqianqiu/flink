@@ -117,7 +117,7 @@ table_result...
 {{< /tab >}}
 {{< /tabs >}}
 
-**注意：** Table API 和 SQL 查询可以很容易地集成并嵌入到 DataStream 或 DataSet 程序中。 请参阅[与 DataStream 和 DataSet API 结合](#integration-with-datastream-and-dataset-api) 章节了解如何将 DataSet 和 DataStream 与表之间的相互转化。
+**注意：** Table API 和 SQL 查询可以很容易地集成并嵌入到 DataStream 或 DataSet 程序中。 请参阅[与 DataStream 和 DataSet API 结合](#integration-with-datastream-and-dataset-api) 章节了解 DataSet 和 DataStream 与表之间的相互转化。
 
 {{< top >}}
 
